@@ -3,8 +3,8 @@ package
 	
 	//import com.milkmangames.nativeextensions.GoViral;
 	
-	import flash.display.Bitmap;
-	import flash.display.BitmapData;
+	// import flash.display.Bitmap;
+	// import flash.display.BitmapData;
 	import flash.display.Sprite;
 	import flash.display.StageAlign;
 	import flash.display.StageAspectRatio;

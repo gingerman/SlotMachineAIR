@@ -36,7 +36,7 @@
 		
 		public static var DEBUG_CONTINUOUS_MODE:Boolean = true;
 		
-		public static var DEBUG_CONTINUOUS_MODE_DELAY:int = 1500; // milliseconds
+		public static var DEBUG_CONTINUOUS_MODE_DELAY:int = 300; // milliseconds
 
 	}
 }
