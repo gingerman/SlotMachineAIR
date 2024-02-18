@@ -1,0 +1,14 @@
+{
+	"config": "airmobile",
+	"compilerOptions": {
+		"source-path": [
+			"src"
+		],
+		"library-path": [
+			"libs"
+		],
+		"output": "bin/gingerman.swf"
+	},
+	"application": "src/game-app.xml",
+	"mainClass": "SlotMachineGame"
+}

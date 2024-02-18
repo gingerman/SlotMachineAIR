@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="slotsymbols1.png">
+    <SubTexture name="bar" x="2" y="2" width="50" height="50"/>
+    <SubTexture name="bigwin" x="54" y="2" width="50" height="50"/>
+    <SubTexture name="cherry" x="106" y="2" width="50" height="50"/>
+    <SubTexture name="lemon" x="158" y="2" width="50" height="50"/>
+    <SubTexture name="melon" x="210" y="2" width="50" height="50"/>
+    <SubTexture name="orange" x="262" y="2" width="50" height="50"/>
+    <SubTexture name="plum" x="314" y="2" width="50" height="50"/>
+    <SubTexture name="seven" x="366" y="2" width="50" height="50"/>
+</TextureAtlas>

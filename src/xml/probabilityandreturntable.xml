@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<probabilityandreturntable info="http://wizardofodds.com/games/slots/appendix/5/">
+	
+	<win>
+		<name>3 Sevens</name>
+		<!-- combination by symbol id  -->
+		<combination>7,7,7</combination>
+		<probability>1</probability>
+		<notes>(1/20 ) * ( 1/20 ) * ( 1/20 ) = 0.000125</notes>
+		<pays>200</pays>
+		
+	</win>
+	
+	<win>
+		<name>3 Bars</name>
+		<!-- combination by symbol id  -->
+		<combination>6,6,6</combination>
+		<probability>6</probability>
+		<notes>(3/20 ) * ( 1/20 ) * ( 0/20 ) = 0</notes>
+		<pays>100</pays>
+		
+	</win>
+	
+		<win>
+		<name>3 Melons</name>
+		<!-- combination by symbol id  -->
+		<combination>2,2,2</combination>
+		<probability>8</probability>
+		<notes>(2/20 ) * ( 2/20 ) * ( 2/20 ) = 0.001 </notes>
+		<pays>100</pays>
+		
+	</win>
+	
+	<win>
+		<name>Melon, Melon, Bar</name>
+		<!-- combination by symbol id  -->
+		<combination>2,2,6</combination>
+		<probability>4</probability>
+		<notes>( (2/20 ) * ( 2/20 ) * ( 1/20 ) ) * 3 = 0.0015 </notes>
+		<pays>100</pays>
+		
+	</win>
+	
+	<win>
+		<name>3 Bells</name>
+		<!-- combination by symbol id  -->
+		<combination>5,5,5</combination>
+		<probability>40</probability>
+		<notes>(0/20 ) * ( 5/20 ) * ( 8/20 ) = 0 </notes>
+		<pays>18</pays>
+		
+	</win>
+	
+	<win>
+		<name>Bell, Bell, Bar</name>
+		<!-- combination by symbol id  -->
+		<combination>5,5,6</combination>
+		<probability>5</probability>
+		<pays>18</pays>
+		
+	</win>
+	
+		<win>
+		<name>3 Plumbs</name>
+		<!-- combination by symbol id  -->
+		<combination>3,3,3</combination>
+		<probability>63</probability>
+		<pays>14</pays>
+		
+	</win>
+	
+			<win>
+		<name>Plumb, Plumb, Bar</name>
+		<!-- combination by symbol id  -->
+		<combination>3,3,6</combination>
+		<probability>21</probability>
+		<pays>14</pays>
+		
+	</win>
+	
+				<win>
+		<name>3 Oranges</name>
+		<!-- combination by symbol id  -->
+		<combination>1,1,1</combination>
+		<probability>100</probability>
+		<pays>10</pays>
+		
+	</win>
+	
+	<win>
+		<name>Orange, Orange, Bar</name>
+		<!-- combination by symbol id  -->
+		<combination>1,1,6</combination>
+		<probability>25</probability>
+		<pays>10</pays>
+		
+	</win>
+	
+	<win>
+		<name>Two Cherries</name>
+		<!-- combination by symbol id  -->
+		<combination>4,4,.</combination>
+		<probability>240</probability>
+		<pays>5</pays>
+		
+	</win>
+	
+		<win>
+		<name>One Cherry</name>
+		<!-- combination by symbol id  -->
+		<combination>4,.,.</combination>
+		<probability>560</probability>
+		<pays>2</pays>
+		
+	</win>
+	
+	   
+</probabilityandreturntable>
